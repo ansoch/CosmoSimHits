@@ -1,0 +1,15 @@
+D:\projects\CosmoSimProjectPP\CosmoSimProjectPP\bin\Debug\net6.0\CosmoSimProjectPP.exe
+D:\projects\CosmoSimProjectPP\CosmoSimProjectPP\bin\Debug\net6.0\CosmoSimProjectPP.deps.json
+D:\projects\CosmoSimProjectPP\CosmoSimProjectPP\bin\Debug\net6.0\CosmoSimProjectPP.runtimeconfig.json
+D:\projects\CosmoSimProjectPP\CosmoSimProjectPP\bin\Debug\net6.0\CosmoSimProjectPP.dll
+D:\projects\CosmoSimProjectPP\CosmoSimProjectPP\bin\Debug\net6.0\CosmoSimProjectPP.pdb
+D:\projects\CosmoSimProjectPP\CosmoSimProjectPP\obj\Debug\net6.0\CosmoSimProjectPP.csproj.AssemblyReference.cache
+D:\projects\CosmoSimProjectPP\CosmoSimProjectPP\obj\Debug\net6.0\CosmoSimProjectPP.GeneratedMSBuildEditorConfig.editorconfig
+D:\projects\CosmoSimProjectPP\CosmoSimProjectPP\obj\Debug\net6.0\CosmoSimProjectPP.AssemblyInfoInputs.cache
+D:\projects\CosmoSimProjectPP\CosmoSimProjectPP\obj\Debug\net6.0\CosmoSimProjectPP.AssemblyInfo.cs
+D:\projects\CosmoSimProjectPP\CosmoSimProjectPP\obj\Debug\net6.0\CosmoSimProjectPP.csproj.CoreCompileInputs.cache
+D:\projects\CosmoSimProjectPP\CosmoSimProjectPP\obj\Debug\net6.0\CosmoSimProjectPP.dll
+D:\projects\CosmoSimProjectPP\CosmoSimProjectPP\obj\Debug\net6.0\refint\CosmoSimProjectPP.dll
+D:\projects\CosmoSimProjectPP\CosmoSimProjectPP\obj\Debug\net6.0\CosmoSimProjectPP.pdb
+D:\projects\CosmoSimProjectPP\CosmoSimProjectPP\obj\Debug\net6.0\CosmoSimProjectPP.genruntimeconfig.cache
+D:\projects\CosmoSimProjectPP\CosmoSimProjectPP\obj\Debug\net6.0\ref\CosmoSimProjectPP.dll

@@ -1,0 +1,117 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="CosmoSimProjectPP.NPC" Collapsed="true">
+    <Position X="4.75" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>NPC.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CosmoSimProjectPP.Player" Collapsed="true">
+    <Position X="7" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Player.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CosmoSimProjectPP.Detail" Collapsed="true">
+    <Position X="11.25" Y="2.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAQAAAAACQCACBAAAAAAAAQCAAAAAA=</HashCode>
+      <FileName>Ships.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="CosmoSimProjectPP.Engine" Collapsed="true">
+    <Position X="9" Y="5.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAQAAAAAIAAAAAAAAAAAAAAAAAAAAAAAEAAAAAAAAA=</HashCode>
+      <FileName>Ships.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CosmoSimProjectPP.Weapon" Collapsed="true">
+    <Position X="15.75" Y="5.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Ships.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CosmoSimProjectPP.Radar" Collapsed="true">
+    <Position X="4.5" Y="5.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Ships.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CosmoSimProjectPP.Storage" Collapsed="true">
+    <Position X="11.25" Y="5.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAACAAAAAABAAAAAAAgAAAAAAAAAAAAAEAAYAAAAA=</HashCode>
+      <FileName>Ships.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CosmoSimProjectPP.Equipment" Collapsed="true">
+    <Position X="18" Y="5.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Ships.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CosmoSimProjectPP.Armor" Collapsed="true">
+    <Position X="6.75" Y="5.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACgAAAAA=</HashCode>
+      <FileName>Ships.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CosmoSimProjectPP.FuelTank" Collapsed="true">
+    <Position X="13.5" Y="5.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAACAAAAAEAAIAAAAA=</HashCode>
+      <FileName>Ships.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CosmoSimProjectPP.Ship" Collapsed="true">
+    <Position X="11.25" Y="7.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BAIAQCAAAgAAAAAAIAEAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>Ships.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CosmoSimProjectPP.PlanetSystem" Collapsed="true">
+    <Position X="6" Y="9.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Systems.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CosmoSimProjectPP.Planet" Collapsed="true">
+    <Position X="4.25" Y="9.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgAAAAAAAA=</HashCode>
+      <FileName>Systems.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CosmoSimProjectPP.Satellite" Collapsed="true">
+    <Position X="4.25" Y="12" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAIAAAAAAAA=</HashCode>
+      <FileName>Systems.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CosmoSimProjectPP.Star" Collapsed="true">
+    <Position X="6" Y="12" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Systems.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Interface Name="CosmoSimProjectPP.Item" Collapsed="true">
+    <Position X="2.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAQCACAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Item.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
