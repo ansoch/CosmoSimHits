@@ -6,12 +6,9 @@ using System.Threading.Tasks;
 
 namespace CosmoSimProjectPP
 {
-    abstract class Detail : Item
+    abstract class Detail : Traits, IItem
     {
-        public string Name { get; protected set; } = "Detail";
         public int DetailStatePoints { get; protected set; }
-        public int Weight { get; protected set; }
-        public int Capacity { get; protected set; } 
         public bool IsDestroyed { get; protected set; } = false;
         public Ship? OwnerShip { get; protected set; }
         public virtual void OnDamage(int damagePoints)
@@ -26,8 +23,12 @@ namespace CosmoSimProjectPP
     }
     abstract class Engine : Detail
     {
-        public int EnginePower;
+        public int EnginePower { get; protected set; }
         protected FuelTank Tank { get; set; }
+        public virtual void Warp()
+        {
+
+        }
         public virtual void Move(int xAxis, int yAxis)
         {
 
@@ -35,6 +36,7 @@ namespace CosmoSimProjectPP
     }
     abstract class Weapon : Detail
     {
+        public int WeaponDMG { get; protected set; } = 1;
         public virtual void Shoot(int xAxis, int yAxis)
         {
 
@@ -54,8 +56,8 @@ namespace CosmoSimProjectPP
         public int MaxCapacity { get; private set; }
         public int CurrentWeight { get; private set; }
         public int CurrentCapacity { get; private set; }
-        public List<Item> ItemList;
-        public void Store(Item item)
+        public List<IItem> ItemList;
+        public void Store(IItem item)
         {
 
         }
@@ -86,7 +88,7 @@ namespace CosmoSimProjectPP
 
         }
     }
-    abstract class Ship
+    class Ship
     {
         protected Engine ShipEngine;
         protected FuelTank ShipFuelTank;
@@ -101,5 +103,4 @@ namespace CosmoSimProjectPP
 
         }
     }
-
 }

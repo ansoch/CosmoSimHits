@@ -6,20 +6,21 @@ using System.Threading.Tasks;
 
 namespace CosmoSimProjectPP
 {
-    abstract class PlanetSystem
+    class PlanetSystem
     {
-        public List<Planet> PlanetList { get; }
+        public Planet[] PlanetList { get; }
+        public Planet[] StationList { get; }
     }
-    abstract class Planet
+    class Planet
     {
-        public List<Satellite> Satellites { get; } = new List<Satellite>();
+        public Satellite[] Satellites { get; }
     }
-    abstract class Satellite
+    class Satellite
     {
         public Planet Planet { get; }
     }
-    abstract class Star
+    class Star
     {
-        public abstract string StarName { get; }
+        public string StarName { get; }
     }
 }
